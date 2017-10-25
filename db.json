@@ -1,0 +1,46 @@
+[{
+  "InsuranceBrokerage": "Prudential Financial",
+  "InsuranceUnderwriter": "James Wilson",
+  "PolicyNumber": 84903857,
+  "EffectiveStartDate": "07/20/2018",
+  "EffectiveEndDate": "07/20/2019",
+  "CancellationDate": "01/01/2018",
+  "PremiumUpfront": 1500,
+  "Annual": 5000,
+  "CollisionDeductible": 1800,
+  "CompDeductible": 1000,
+   "FHFAgent": "Lisa Cuddy",  
+   "Recorded_on": "8/25/2017",
+  "PolicyNotes": "Lorem ipsum dolor sit amet, ei wisi nobis labore sed. Qui ei elit adipisci hendrerit, vis congue delicata ut"
+}, 
+
+{
+  "InsuranceBrokerage": "Gateway One Financial",
+  "InsuranceUnderwriter": "Greg House",
+  "PolicyNumber": 84903857,
+  "EffectiveStartDate": "07/20/2018",
+  "EffectiveEndDate": "07/20/2019",
+  "CancellationDate": "01/01/2018",
+  "PremiumUpfront": 20000,
+  "Annual": 8000,
+  "CollisionDeductible": 1800,
+  "CompDeductible": 800,
+   "FHFAgent": "David Stern",  
+   "Recorded_on": "10/25/2017",
+  "PolicyNotes": "Lorem ipsum dolor sit amet, ei wisi nobis labore sed. Qui ei elit adipisci hendrerit, vis congue delicata ut"
+},
+{
+  "InsuranceBrokerage": "All State Insurance",
+  "InsuranceUnderwriter": "Lisa Cuddy",
+  "PolicyNumber": 84903857,
+  "EffectiveStartDate": "07/20/2018",
+  "EffectiveEndDate": "07/20/2019",
+  "CancellationDate": "01/01/2018",
+  "PremiumUpfront": 20000,
+  "Annual": 7500,
+  "CollisionDeductible": 2800,
+  "CompDeductible": 1000,
+  "FHFAgent": "Maria Lopez",
+  "Recorded_on": "2/25/2016",
+  "PolicyNotes": "Lorem ipsum dolor sit amet, ei wisi nobis labore sed. Qui ei elit adipisci hendrerit, vis congue delicata ut"
+}]
